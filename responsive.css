@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 810px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+    #search{
+        width: 100%;
+    }
+    .burger{
+        display: block;
+    }   
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+     
+   
+}
